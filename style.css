@@ -93,4 +93,5 @@ body {
 }
 .white {
     color: var(--White);
+    padding: 3px;
 }
