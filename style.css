@@ -103,3 +103,7 @@ body {
     color: var(--Cyan);
     cursor: pointer;
 }
+.attribution {
+    position: absolute;
+    bottom: 0;
+}
