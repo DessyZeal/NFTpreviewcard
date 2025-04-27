@@ -106,4 +106,5 @@ body {
 .attribution {
     position: absolute;
     bottom: 0;
+    color: var(--Soft-blue);
 }
