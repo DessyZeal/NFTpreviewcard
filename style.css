@@ -103,6 +103,10 @@ body {
     color: var(--Cyan);
     cursor: pointer;
 }
+.main-img:hover {
+    background-color: black;
+    cursor: pointer;
+}
 .attribution {
     position: absolute;
     bottom: 0;
