@@ -138,8 +138,13 @@ body {
     cursor: pointer;
 }
 .attribution {
-    position: relative;
+    font-size: 15px;
+    text-align: center;
+    padding: 12px;
+    position: fixed;
     bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
     color: var(--Soft-blue);
 }
 
